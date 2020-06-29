@@ -17,7 +17,7 @@ from sklearn.model_selection import train_test_split
 from sklearn import preprocessing
 import copy
 #%matplotlib inline
-
+print(1)
 
 #Read data into dataframe 
 X=pd.read_csv('/Users/rohitmadan/Desktop/CarPrice/CarPrice_Assignment.csv')
